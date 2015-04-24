@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Pardal</string>
-
     <string name="title_section1">Visualizar Ranking</string>
     <string name="title_section2">Visualizar Categoria</string>
     <string name="title_section3">Créditos</string>
@@ -9,6 +8,6 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_example">Inicio</string>
-    <string name="action_version">Inicio</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_version">Versão</string>
+    <string name="action_settings">Opções</string>
 </resources>
